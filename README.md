@@ -18,6 +18,8 @@
 
 This analysis provides insights into Netflix shows since their inception. We are considering various aspects such as movies and TV shows, title type, director, cast, country of production, release year, rating, duration, genres (listed), and a brief description.
 
+![Netflix_Dashboard](https://github.com/AndersonOzakpo/Netflix-Dashboard/assets/169863628/8e4dcdb6-6be6-4eac-bef2-97f3bc241483)
+
 ### Data Sources
 
 Netflix Titles: The primary dataset used for this analysis is the "netflix_titles.csv" file containing detailed information about Netflix shows and movies.
